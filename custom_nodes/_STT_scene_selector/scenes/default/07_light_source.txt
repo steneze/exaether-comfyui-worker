@@ -1,0 +1,20 @@
+1. Lumière fenêtre naturelle;the scene is lit by natural window light with soft diffused daylight creating one-sided illumination in classic portrait lighting style
+2. Lumière fenêtre directe;the scene is lit by direct sunlight through a window creating harder shadows with high contrast in dramatic natural lighting
+3. Golden hour soleil;the scene is bathed in golden hour sunlight with warm orange tones and long soft shadows in magic hour glow
+4. Lumière jour couvert;the scene is lit by overcast daylight creating soft even illumination with no harsh shadows in naturally flattering light
+5. Lumière bleue heure bleue;the scene is lit by blue hour twilight with cool blue ambient tones as city lights begin to appear
+6. Softbox studio;the scene is lit by studio softbox lighting creating controlled soft light with professional portrait quality that is clean and even
+7. Ring light face;the scene is lit by ring light illumination creating even frontal light with distinctive ring-shaped catchlights in her eyes in influencer aesthetic
+8. Lumière pratique lampe;the scene is lit by a practical lamp with warm tungsten glow and the visible light source in frame creating intimate domestic atmosphere
+9. Néon coloré;the scene is lit by neon light illumination casting colored glow in pink blue or green tones with urban night edgy aesthetic
+10. Bougie chandelle;the scene is lit by candlelight with warm flickering glow that is very soft creating romantic intimate atmosphere
+11. Flash direct;the scene is lit by direct flash with harsh frontal light creating strong shadows behind the subject in party snapshot aesthetic
+12. Flash bounce;the scene is lit by bounced flash reflected from ceiling or wall creating softer illumination in event photography style
+13. Lumière écran;the scene is lit by screen light with her face illuminated by phone or computer screen casting cool blue glow in intimate night moment
+14. Éclairage mixte;the scene is lit by mixed lighting sources with multiple color temperatures creating complex urban environment atmosphere
+15. Lumière club;the scene is lit by nightclub lighting with colored moving lights in dark ambient party atmosphere
+16. Lumière néon enseigne;the scene is lit by neon sign lighting casting specific color onto her face creating urban night cinematic noir mood
+17. Lumière LED moderne;the scene is lit by modern LED panel lighting that is clean even and daylight-balanced in contemporary studio style
+18. Fairy lights bokeh;the scene includes fairy lights as light source creating soft warm points of light with dreamy festive intimate background
+19. Lumière voiture;the scene is lit by car headlights or interior light in night scenario creating dramatic harsh cinematic lighting
+20. Lumière fin de jour;the scene is lit by late afternoon light that is warm but not yet golden with pleasant natural everyday illumination

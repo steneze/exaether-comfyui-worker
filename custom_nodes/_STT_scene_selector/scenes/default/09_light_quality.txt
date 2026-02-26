@@ -1,0 +1,15 @@
+1. Lumière douce diffuse;the light quality is soft and diffused with gentle shadows that have soft edges creating flattering even illumination
+2. Lumière dure contrastée;the light quality is hard and contrasty with sharp defined shadows creating dramatic sculptural effect
+3. Lumière tamisée;the light is filtered and dappled as if coming through leaves or blinds creating a pattern of light and shadow on her
+4. Lumière réfléchie;the light is reflected and bounced off walls or a reflector creating soft fill that opens up the shadows
+5. Lumière mixte sources;the light comes from multiple mixed sources and directions creating complex natural environment illumination
+6. Lumière enveloppante;the light wraps around the subject from a large source creating minimal shadows with soft enveloping illumination
+7. Lumière ponctuelle;the light is focused in a spotlight effect with a concentrated beam highlighting the subject against dark surroundings
+8. Lumière ambiante faible;the lighting is low ambient with dark moody atmosphere where visible noise is possible creating intimate atmosphere
+9. Lumière haute clé;the lighting is high key with bright overall illumination and minimal shadows creating a clean airy feeling
+10. Lumière basse clé;the lighting is low key with predominantly dark tones and selective illumination creating moody dramatic atmosphere
+11. Lumière naturelle pure;the lighting uses pure natural light only with no artificial sources creating authentic daylight illumination
+12. Lumière artificielle pure;the lighting uses artificial light only with controlled studio or interior illumination and no daylight
+13. Lumière contrastée dramatique;the lighting has dramatic contrast with deep shadows and bright highlights in chiaroscuro painterly style
+14. Lumière plate beauty;the lighting is flat beauty style with even frontal illumination that minimizes skin texture in cosmetic ideal aesthetic
+15. Lumière texturée;the lighting comes at a raking angle that reveals skin and fabric texture in editorial textured style

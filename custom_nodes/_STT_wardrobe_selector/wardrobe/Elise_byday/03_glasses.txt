@@ -1,0 +1,15 @@
+1. Sans lunettes;she is not wearing any glasses and her eyes are fully visible and unobstructed
+2. Lunettes vue rondes fines;she wears delicate round optical glasses with a thin gold metal frame giving her an intellectual and feminine look
+3. Lunettes vue rectangles noires;she wears black rectangular optical glasses with a slim acetate frame that look subtle and professional
+4. Lunettes vue cat-eye;she wears subtle cat-eye optical glasses with a thin tortoiseshell acetate frame and slightly upswept corners
+5. Lunettes vue transparentes;she wears clear transparent optical glasses with a rounded rectangular shape giving a barely-there modern aesthetic
+6. Lunettes vue écaille;she wears tortoiseshell optical glasses in warm brown and amber tones with a classic rounded shape
+7. Lunettes soleil aviateur;she wears classic aviator sunglasses with a gold metal frame and gradient brown lenses
+8. Lunettes soleil cat-eye noires;she wears black cat-eye sunglasses with a glossy acetate frame and dark grey lenses giving vintage glamour
+9. Lunettes soleil rondes;she wears round sunglasses with a thin gold metal frame and brown tinted lenses giving a bohemian intellectual vibe
+10. Lunettes soleil oversize;she wears oversized square sunglasses with a black acetate frame and dark lenses giving mysterious glamour
+11. Lunettes soleil écaille;she wears tortoiseshell sunglasses with a rectangular shape and warm brown lenses in a classic French Riviera style
+12. Lunettes soleil sport;she wears wraparound sport sunglasses with a matte black frame and polarized dark lenses
+13. Lunettes soleil blanches;she wears white frame sunglasses with a rounded rectangular shape and dark lenses giving a fresh summer statement
+14. Lunettes lecture demi-lune;she wears half-moon reading glasses with a thin gold frame perched on the tip of her nose
+15. Lunettes soleil miroir;she wears mirrored sunglasses in a classic wayfarer shape with a black frame and reflective silver lenses

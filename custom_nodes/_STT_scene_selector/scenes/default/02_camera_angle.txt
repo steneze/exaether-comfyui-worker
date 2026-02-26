@@ -1,0 +1,15 @@
+1. Angle niveau yeux;the camera is positioned at eye level creating a neutral and natural perspective with direct connection to the subject
+2. Légèrement plongée;the camera is positioned slightly above eye level angled subtly downward creating a flattering and approachable perspective
+3. Légèrement contre-plongée;the camera is positioned slightly below eye level angled subtly upward creating an empowering perspective that elongates her neck
+4. Plongée modérée;the camera is positioned noticeably above the subject looking down at a moderate high angle creating vulnerable or introspective mood
+5. Plongée forte;the camera is positioned significantly above looking strongly down creating a dramatic diminishing effect on the subject
+6. Plongée zénithale;the camera is positioned directly above in a bird's eye view looking straight down ideal for lying down poses with graphic composition
+7. Contre-plongée modérée;the camera is positioned noticeably below the subject looking up creating a powerful and dominant presence
+8. Contre-plongée forte;the camera is positioned near the ground looking strongly upward creating a heroic and imposing dramatic effect
+9. Angle hollandais léger;the camera is tilted 10 to 15 degrees creating a slight Dutch angle with subtle tension and dynamism
+10. Angle hollandais marqué;the camera is tilted 25 to 35 degrees creating a strong Dutch angle with dramatic tension and unstable mood
+11. Angle rasant;the camera is positioned very low near ground level in a worm's eye view creating extreme power dynamic
+12. Angle par-dessus épaule;the camera is positioned behind and to the side in an over-the-shoulder angle creating voyeuristic narrative context
+13. Angle selfie typique;the camera is held at typical selfie angle above at arm's length angled 20 to 30 degrees down as flattering phone camera perspective
+14. Angle selfie miroir;the camera captures a mirror reflection with the phone at chest or waist level showing reflection perspective
+15. Angle surveillance;the camera is positioned high in a corner like a security camera creating documentary candid aesthetic

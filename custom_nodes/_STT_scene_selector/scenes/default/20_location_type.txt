@@ -1,0 +1,25 @@
+1. Intérieur appartement;the scene takes place inside an apartment in a residential domestic space that feels personal and intimate
+2. Intérieur chambre;the scene takes place in a bedroom interior with a bed visible creating an intimate private boudoir potential space
+3. Intérieur salon;the scene takes place in a living room interior with a sofa and decor in casual home environment
+4. Intérieur salle de bain;the scene takes place in a bathroom interior with mirror and tiles creating intimate grooming space
+5. Intérieur cuisine;the scene takes place in a kitchen interior with appliances and counters in domestic lifestyle setting
+6. Intérieur studio photo;the scene takes place in a photo studio interior with seamless backdrop in professional controlled environment
+7. Intérieur bureau;the scene takes place in an office interior with desk and professional setting in working environment
+8. Intérieur café;the scene takes place in a café interior with tables and coffee shop ambiance in social public space
+9. Intérieur restaurant;the scene takes place in a restaurant interior in dining setting of elegant or casual eating establishment
+10. Intérieur hôtel chambre;the scene takes place in a hotel room interior with bed and neutral decor in anonymous travel setting
+11. Intérieur hôtel lobby;the scene takes place in a hotel lobby with elegant public space in transitional luxurious setting
+12. Intérieur musée galerie;the scene takes place in a museum or gallery interior with white walls in cultural art context space
+13. Extérieur rue urbaine;the scene takes place on an urban street exterior in city environment with buildings and pavement
+14. Extérieur parc;the scene takes place in a park exterior with trees and grass as a natural urban oasis
+15. Extérieur plage;the scene takes place on a beach exterior with sand and water in vacation coastal environment
+16. Extérieur forêt;the scene takes place in a forest exterior surrounded by trees and nature in woodland setting
+17. Extérieur campagne;the scene takes place in countryside exterior with fields and rural landscape in pastoral setting
+18. Extérieur rooftop;the scene takes place on a rooftop exterior with city skyline background in urban elevated setting
+19. Extérieur terrasse café;the scene takes place on a café terrace with outdoor seating in Parisian sidewalk potential setting
+20. Intérieur voiture;the scene takes place inside a car interior in vehicle setting as driver or passenger in confined intimate space
+21. Extérieur jardin;the scene takes place in a garden exterior with flowers and cultivated nature in private outdoor setting
+22. Intérieur club boîte;the scene takes place in a nightclub interior with dark environment and colored lights in party atmosphere
+23. Intérieur gym;the scene takes place in a gym interior with exercise equipment in athletic workout environment
+24. Extérieur piscine;the scene takes place poolside with water and lounging area in resort or private summer setting
+25. Intérieur escalier;the scene takes place in a staircase interior with architectural lines in transitional dramatic space

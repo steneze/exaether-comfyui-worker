@@ -1,0 +1,15 @@
+1. Lumière frontale plate;the light falls flat from the front creating even illumination with minimal shadows in clean beauty lighting style
+2. Lumière latérale gauche;the light comes from the left side illuminating half her face with dramatic shadows falling on the right side
+3. Lumière latérale droite;the light comes from the right side illuminating half her face with dramatic shadows falling on the left side
+4. Lumière trois-quarts avant gauche;the light comes from three-quarter front left position potentially creating a Rembrandt triangle in classic portrait lighting
+5. Lumière trois-quarts avant droit;the light comes from three-quarter front right position sculpting her features with dimensional shadows
+6. Contre-jour;the light comes from behind the subject creating rim light on her edges with her face in relative shadow and potential for dramatic silhouette
+7. Lumière cheveux;the light comes from above and behind creating a hair light that highlights her hair and shoulders separating her from the background
+8. Lumière Rembrandt;the light creates Rembrandt lighting with a characteristic triangle of light on the shadowed cheek in painterly dramatic style
+9. Lumière papillon;the light comes from directly above and in front creating butterfly lighting with a shadow under her nose in glamorous Hollywood style
+10. Lumière loop;the light creates loop lighting with a small shadow loop from her nose extending onto her cheek in flattering standard portrait style
+11. Lumière par-dessous;the light comes from below her face creating unnatural eerie illumination in horror or dramatic theatrical effect
+12. Lumière split;the light creates split lighting with exactly half her face illuminated and half in shadow for dramatic high contrast effect
+13. Lumière bord;the light creates rim lighting with a thin line of light on the edge of her face and body for dramatic separation from background
+14. Lumière double latérale;the light comes from both sides illuminating her profile edges with shadow running down the center in edgy fashion style
+15. Contre-jour doux;the light creates soft backlight with gentle rim without harsh silhouette giving an angelic glowing dreamy effect

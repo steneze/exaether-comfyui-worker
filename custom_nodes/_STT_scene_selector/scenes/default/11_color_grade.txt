@@ -1,0 +1,20 @@
+1. Couleurs neutres naturelles;the color grading is neutral and natural with accurate white balance showing true to life colors that are clean and honest
+2. Tons chauds dorés;the color grading has warm golden tones with amber and honey cast creating a sunny inviting golden hour feeling
+3. Tons froids bleutés;the color grading has cool blue tones with steel and ice cast creating a modern crisp or melancholic fresh feeling
+4. Désaturé doux;the color grading is softly desaturated with muted palette and pastel feeling that is gentle and calm
+5. Contraste élevé saturé;the color grading has high contrast with saturated punchy vivid colors that feel bold and energetic
+6. Noir et blanc classique;the image is in classic black and white with full tonal range creating timeless dramatic effect
+7. Noir et blanc contrasté;the image is in high contrast black and white with deep blacks and bright whites in graphic bold style
+8. Noir et blanc doux;the image is in soft black and white with gentle grey tones creating romantic vintage portrait feeling
+9. Teal and orange cinéma;the color grading uses cinematic teal and orange complementary contrast in Hollywood blockbuster style
+10. Vintage fade;the color grading has vintage faded colors with lifted blacks and low contrast creating nostalgic film feeling
+11. Film Portra;the color grading emulates Kodak Portra film with warm skin tones and soft contrast in portrait classic style
+12. Film Ektar;the color grading emulates Kodak Ektar film with vivid saturated colors and punchy contrast in vibrant style
+13. Cross-process;the color grading has cross-processed look with unusual color shifts in experimental edgy style
+14. Sépia doux;the color grading is soft sepia with brown monochrome tones creating antique nostalgic feeling
+15. Monochrome coloré;the color grading is color monochrome with single color dominant in artistic bold blue or red wash
+16. HDR naturel;the color grading has natural HDR look with detail visible in shadows and highlights in realistic enhanced style
+17. Pastel doux;the color grading has soft pastel colors that are lifted and gentle creating dreamy feminine feeling
+18. Ombres colorées;the color grading has colored shadows with teal or purple in the dark areas creating cinematic depth
+19. Hautes lumières chaudes;the color grading has warm highlights with cool shadows in split toning creating dimensional color
+20. Néon nuit;the color grading has neon night colors with pink and blue tones in cyberpunk urban night aesthetic

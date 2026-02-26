@@ -1,0 +1,20 @@
+1. Sans chapeau;she is not wearing any hat and her hairstyle is fully visible
+2. Béret noir classique;she wears a classic black wool béret tilted to one side in quintessential Parisian style
+3. Béret beige;she wears a soft beige wool béret positioned slightly back on her head with casual French elegance
+4. Casquette beige coton;she wears a beige cotton baseball cap with a minimal design and a slightly worn-in look
+5. Casquette noire;she wears a black cotton baseball cap that is clean and simple with a low profile
+6. Bob noir;she wears a black cotton bucket hat in a casual relaxed 90s revival style
+7. Bob beige lin;she wears a natural beige linen bucket hat that is breathable and perfect for summer
+8. Chapeau paille large;she wears a wide-brimmed natural straw hat that provides elegant sun protection with French Riviera sophistication
+9. Chapeau paille fedora;she wears a straw fedora hat in a natural tan color with a thin black ribbon band
+10. Fedora feutre noir;she wears a black wool felt fedora with a classic shape and grosgrain ribbon giving her a sophisticated artistic look
+11. Fedora feutre camel;she wears a camel wool felt fedora in a warm autumn tone with timeless elegance
+12. Bonnet noir côtelé;she wears a black ribbed wool beanie with a snug fit and folded cuff for winter warmth
+13. Bonnet gris;she wears a grey merino wool beanie with a slouchy fit that looks soft and cozy
+14. Bonnet crème;she wears a cream cashmere beanie that is luxuriously soft with a fitted style
+15. Bandeau tricot;she wears a knitted headband in charcoal grey that warms her ears without causing hat hair
+16. Foulard tête soie;she wears a silk scarf tied as a headband in cream with a subtle pattern giving vintage glamour
+17. Casquette gavroche;she wears a newsboy cap in grey herringbone wool with vintage Parisian street style
+18. Chapeau cavalier;she wears a black velvet riding helmet in a sleek professional equestrian style
+19. Visière sport;she wears a white sport visor in a tennis or golf style for practical sun protection
+20. Canotier paille;she wears a classic straw boater hat with a flat top and black ribbon band giving vintage summer charm

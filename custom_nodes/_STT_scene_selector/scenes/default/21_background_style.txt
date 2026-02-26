@@ -1,0 +1,20 @@
+1. Fond uni clair;the background is a plain light solid color in white or cream creating clean simple product shot feel
+2. Fond uni sombre;the background is a plain dark solid color in black or charcoal creating dramatic subject isolation
+3. Fond uni coloré;the background is a colored solid in single bold color creating fashion editorial backdrop
+4. Fond flou bokeh léger;the background is softly blurred with light bokeh creating subject separation at approximately f/2.8 depth
+5. Fond flou bokeh fort;the background is heavily blurred with strong bokeh circles creating dreamy f/1.4 depth of field effect
+6. Fond contextuel net;the background is sharp and environmental with location visible and clear in documentary style
+7. Fond architectural;the background features architecture with buildings or structures in urban graphic setting
+8. Fond texture mur;the background is a textured wall of brick stone or plaster adding tactile depth to the image
+9. Fond végétal;the background features foliage with leaves and plants in natural green organic setting
+10. Fond ciel;the background is sky with clouds or clear blue creating outdoor expansive feeling
+11. Fond urbain flou;the background is blurred urban environment with city lights and shapes in metropolitan setting
+12. Fond intérieur flou;the background is blurred interior with domestic shapes creating intimate context
+13. Fond noir complet;the background is completely black with the subject emerging from darkness in dramatic isolation
+14. Fond blanc pur;the background is pure white in high key clean bright commercial style
+15. Fond dégradé;the background is a gradient with smooth color transition in studio or digital aesthetic
+16. Fond lumineux fenêtre;the background is bright window light creating potential for silhouette with backlit effect
+17. Fond miroir;the background includes a mirror with reflection visible creating doubled voyeuristic image
+18. Fond néon;the background features neon lights with colored glow in urban night edgy setting
+19. Fond bokeh lumières;the background is blurred lights with fairy lights or city lights creating magical sparkling backdrop
+20. Fond industriel;the background is industrial with metal concrete and raw materials in gritty urban setting

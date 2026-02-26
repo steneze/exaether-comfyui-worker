@@ -1,0 +1,20 @@
+1. Selfie smartphone;the image looks like a handheld smartphone selfie taken at arm's length about 50 to 70cm from her face with slight wide-angle distortion and casual authentic front camera quality
+2. Selfie miroir;the image is a mirror selfie with the phone visible in the reflection using back camera quality allowing full body view in a bathroom or bedroom setting
+3. Selfie miroir salle de bain;the image is a bathroom mirror selfie with tiles or fixtures visible capturing an intimate private getting ready moment
+4. Selfie ascenseur;the image is an elevator mirror selfie with metallic reflection capturing an outfit check moment in a going out context
+5. Photo DSLR professionnelle;the image looks like a professional DSLR photograph with sharp focus beautiful bokeh and 85mm equivalent perspective with studio or location lighting quality
+6. Photo amateur authentique;the image has an amateur snapshot aesthetic with slightly imperfect focus and possible on-camera flash creating authentic candid feel
+7. Photo candide volée;the image captures a candid stolen moment where the subject appears unaware or pretending to be unaware with natural behavior frozen
+8. Photo paparazzi;the image has paparazzi style with telephoto compression as if caught in public with celebrity aesthetic and possible grain
+9. Photo éditorial mode;the image is fashion editorial photography that is highly styled with professional lighting in magazine quality
+10. Photo portrait studio;the image is a studio portrait with controlled lighting and possible seamless background in formal sitting style
+11. Photo film argentique;the image looks like analog film photography with visible film grain slightly muted colors and nostalgic Portra or Ektar quality
+12. Photo Polaroid;the image has Polaroid instant photo aesthetic with square format white border and slightly faded vintage instant colors
+13. Photo photomaton;the image has photo booth strip aesthetic like a series of playful poses with harsh direct flash and casual intimate feeling
+14. Webcam qualité;the image has webcam quality that is slightly pixelated with flat lighting in video call aesthetic feeling casual and intimate
+15. Photo de nuit flash;the image is a nighttime flash photograph with harsh direct light against dark background in party or event aesthetic
+16. Photo lifestyle;the image is lifestyle photography that feels aspirational but natural with possible golden hour light in influencer aesthetic
+17. Photo boudoir;the image is boudoir photography style with intimate bedroom setting and soft romantic lighting that is sensual but tasteful
+18. Photo fine art;the image is fine art photography with conceptual artistic composition that feels gallery-worthy
+19. Screenshot vidéo;the image looks like a video screenshot that is slightly motion-blurred with 16:9 crop capturing a candid frozen moment
+20. Photo test Polaroid;the image has test shot Polaroid aesthetic showing behind the scenes with the model between poses in raw authentic moment

@@ -1,0 +1,20 @@
+1. Ambiance intime;the mood of the image is intimate with a close personal feeling capturing a private moment that feels vulnerable and real
+2. Ambiance confiante;the mood of the image is confident with self-assured presence where she appears powerful and controlled owning the space
+3. Ambiance vulnérable;the mood of the image is vulnerable with open unguarded feeling showing emotional exposure that feels touching
+4. Ambiance joueuse;the mood of the image is playful with light fun energy and mischievous feeling that invites a smile
+5. Ambiance mystérieuse;the mood of the image is mysterious with enigmatic secretive presence that leaves questions unanswered and feels intriguing
+6. Ambiance mélancolique;the mood of the image is melancholic with wistful sadness in beautiful sorrow that feels contemplative
+7. Ambiance sereine;the mood of the image is serene with peaceful calm presence in tranquil meditative atmosphere
+8. Ambiance intense;the mood of the image is intense with powerful emotion and piercing unflinching presence
+9. Ambiance décontractée;the mood of the image is casual and relaxed where she appears at ease and comfortable in everyday natural moment
+10. Ambiance sensuelle;the mood of the image is sensual with awareness of body and subtle seduction that is charged but tasteful
+11. Ambiance rêveuse;the mood of the image is dreamy with lost in thought faraway quality that feels romantic and soft
+12. Ambiance sombre;the mood of the image is dark with shadowy brooding intensity and gothic undertone
+13. Ambiance joyeuse;the mood of the image is joyful with genuine happiness and bright energy that feels infectiously positive
+14. Ambiance pensive;the mood of the image is pensive with deep thought and intellectual contemplation as if considering something important
+15. Ambiance provocante;the mood of the image is provocative with challenging daring attitude and bold presence
+16. Ambiance nostalgique;the mood of the image is nostalgic with remembering quality and bittersweet vintage emotional feeling
+17. Ambiance puissante;the mood of the image is powerful with commanding presence showing dominance and control with strength
+18. Ambiance douce;the mood of the image is gentle with soft tender presence and kind warmth
+19. Ambiance froide;the mood of the image is cold with distant unapproachable ice queen reserved presence
+20. Ambiance sauvage;the mood of the image is wild with untamed fierce energy that feels free and naturally powerful

@@ -1,0 +1,15 @@
+1. 85mm portrait;the image is shot with an 85mm portrait lens creating classic portrait compression with beautiful background separation and flattering perspective on facial features
+2. 50mm standard;the image is shot with a 50mm standard lens creating natural perspective similar to the human eye with versatile documentary feel
+3. 35mm reportage;the image is shot with a 35mm wide lens including slight environmental context with photojournalistic intimate but contextual feel
+4. 24mm grand angle;the image is shot with a 24mm wide angle lens creating environmental portrait with exaggerated perspective that feels dynamic and immersive
+5. 135mm telephoto;the image is shot with a 135mm telephoto lens creating strong compression with very shallow depth of field for maximum subject isolation
+6. 200mm compression;the image is shot with a 200mm telephoto creating extreme background compression with paparazzi aesthetic and flattened facial features
+7. Macro détail;the image has macro lens effect with extreme close-up detail and very shallow focus plane emphasizing texture at near distances
+8. Tilt-shift miniature;the image has tilt-shift effect with selective focus plane creating a dreamy unusual miniature-like appearance
+9. Fisheye léger;the image has slight fisheye distortion with curved lines at edges creating skater video aesthetic with energetic distorted feel
+10. Bokeh prononcé;the image has pronounced bokeh effect shot at approximately f/1.4 with very shallow depth of field creating dreamy blurred background with strong subject pop
+11. Bokeh léger;the image has subtle bokeh shot at approximately f/2.8 to f/4 with moderately soft background keeping context visible while separating subject
+12. Grande profondeur;the image has deep depth of field shot at approximately f/8 to f/11 with sharpness throughout showing environmental detail in documentary style
+13. Flare soleil;the image has lens flare effect with sun or bright light creating flare streaks giving dreamy warm golden hour feeling
+14. Distorsion selfie;the image has selfie camera distortion with slight wide-angle stretch making the nose appear slightly larger in authentic phone camera look
+15. Anamorphique cinéma;the image has anamorphic lens effect with horizontal flares and cinematic aspect ratio creating movie-like theatrical feeling
