@@ -89,27 +89,9 @@ COPY custom_nodes/_STT_wardrobe_selector /comfyui/custom_nodes/_STT_wardrobe_sel
 # 5. Extra model paths — add diffusion_models mapping
 #    Base image maps unet → models/unet/ but our volume uses models/diffusion_models/
 # ----------------------------------------------------------------------------
-RUN YAML_FILE=$(find / -name "extra_model_paths.yaml" 2>/dev/null | head -1) && \
-    if [ -n "$YAML_FILE" ]; then \
-        echo "  diffusion_models: models/diffusion_models/" >> "$YAML_FILE" && \
-        echo "Patched $YAML_FILE with diffusion_models path"; \
-    else \
-        echo "WARNING: extra_model_paths.yaml not found, creating custom one" && \
-        printf '%s\n' \
-            "runpod_worker_comfy:" \
-            "  base_path: /runpod-volume" \
-            "  checkpoints: models/checkpoints/" \
-            "  clip: models/clip/" \
-            "  clip_vision: models/clip_vision/" \
-            "  configs: models/configs/" \
-            "  controlnet: models/controlnet/" \
-            "  embeddings: models/embeddings/" \
-            "  loras: models/loras/" \
-            "  upscale_models: models/upscale_models/" \
-            "  vae: models/vae/" \
-            "  unet: models/unet/" \
-            "  diffusion_models: models/diffusion_models/" \
-            > /comfyui/extra_model_paths.yaml; \
-    fi
+COPY extra_model_paths.yaml /tmp/extra_model_paths_override.yaml
+RUN YAML_FILE=$(find / -name "extra_model_paths.yaml" -not -path "/tmp/*" 2>/dev/null | head -1) && \
+    if [ -n "$YAML_FILE" ]; then echo "  diffusion_models: models/diffusion_models/" >> "$YAML_FILE"; \
+    else cp /tmp/extra_model_paths_override.yaml /comfyui/extra_model_paths.yaml; fi
 
 WORKDIR /comfyui
