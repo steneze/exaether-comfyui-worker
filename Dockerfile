@@ -7,6 +7,9 @@ FROM runpod/worker-comfyui:5.2.0-base
 # Models are on RunPod Network Volume (mounted at /runpod-volume)
 # ============================================================================
 
+# Update core ComfyUI to latest (for comfy_extras: CFGNorm, nodes_qwen, etc.)
+RUN cd /comfyui && git pull --ff-only || git fetch --all && git reset --hard origin/master
+
 WORKDIR /comfyui/custom_nodes
 
 # ----------------------------------------------------------------------------
@@ -26,7 +29,8 @@ RUN git clone --depth 1 https://github.com/comfyanonymous/ComfyUI_experiments &&
 RUN git clone --depth 1 https://github.com/city96/ComfyUI-GGUF && \
     git clone --depth 1 https://github.com/cubiq/ComfyUI_IPAdapter_plus comfyui_ipadapter_plus && \
     git clone --depth 1 https://github.com/Fannovel16/comfyui_controlnet_aux && \
-    git clone --depth 1 https://github.com/kijai/ComfyUI-KJNodes comfyui-kjnodes
+    git clone --depth 1 https://github.com/kijai/ComfyUI-KJNodes comfyui-kjnodes && \
+    git clone --depth 1 https://github.com/yolain/ComfyUI-Easy-Use comfyui-easy-use
 
 # ----------------------------------------------------------------------------
 # 3. Install pip requirements for nodes that have them
