@@ -52,12 +52,17 @@ COPY custom_nodes/_STT_scene_selector /comfyui/custom_nodes/_STT_scene_selector
 COPY custom_nodes/_STT_wardrobe_selector /comfyui/custom_nodes/_STT_wardrobe_selector
 
 # ----------------------------------------------------------------------------
-# 5. Extra model paths — add diffusion_models mapping
-#    Base image maps unet → models/unet/ but our volume uses models/diffusion_models/
+# 5. Extra model paths — replace with our own that includes diffusion_models
 # ----------------------------------------------------------------------------
-COPY extra_model_paths.yaml /tmp/extra_model_paths_override.yaml
-RUN YAML_FILE=$(find / -name "extra_model_paths.yaml" -not -path "/tmp/*" 2>/dev/null | head -1) && \
-    if [ -n "$YAML_FILE" ]; then echo "  diffusion_models: models/diffusion_models/" >> "$YAML_FILE"; \
-    else cp /tmp/extra_model_paths_override.yaml /comfyui/extra_model_paths.yaml; fi
+COPY extra_model_paths.yaml /comfyui/extra_model_paths.yaml
+
+# Also create a startup script that symlinks diffusion_models into the
+# ComfyUI models dir at runtime (when the volume is mounted)
+RUN echo '#!/bin/bash' > /comfyui/link_models.sh && \
+    echo 'if [ -d "/runpod-volume/models/diffusion_models" ]; then' >> /comfyui/link_models.sh && \
+    echo '  ln -sfn /runpod-volume/models/diffusion_models /comfyui/models/diffusion_models' >> /comfyui/link_models.sh && \
+    echo '  echo "Linked diffusion_models from network volume"' >> /comfyui/link_models.sh && \
+    echo 'fi' >> /comfyui/link_models.sh && \
+    chmod +x /comfyui/link_models.sh
 
 WORKDIR /comfyui
