@@ -8,7 +8,9 @@ FROM runpod/worker-comfyui:5.2.0-base
 # ============================================================================
 
 # Update core ComfyUI to latest (for comfy_extras: CFGNorm, nodes_qwen, etc.)
-RUN cd /comfyui && git pull --ff-only || git fetch --all && git reset --hard origin/master
+# Then reinstall requirements.txt to pick up new deps (e.g. comfy-aimdo added in recent master)
+RUN cd /comfyui && git pull --ff-only || git fetch --all && git reset --hard origin/master && \
+    pip install --no-cache-dir -r /comfyui/requirements.txt
 
 WORKDIR /comfyui/custom_nodes
 
@@ -42,8 +44,6 @@ RUN for dir in /comfyui/custom_nodes/*/; do \
             echo "WARNING: Failed to install requirements for $(basename $dir)"; \
         fi; \
     done
-
-RUN pip install comfy-aimdo
 
 # Impact Pack needs a special install step
 RUN cd /comfyui/custom_nodes/comfyui-impact-pack && \
