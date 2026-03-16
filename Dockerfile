@@ -43,6 +43,8 @@ RUN for dir in /comfyui/custom_nodes/*/; do \
         fi; \
     done
 
+RUN pip install comfy-aimdo
+
 # Impact Pack needs a special install step
 RUN cd /comfyui/custom_nodes/comfyui-impact-pack && \
     python install.py || echo "WARNING: Impact Pack install.py failed (may need models at runtime)"
